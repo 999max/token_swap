@@ -1,0 +1,17 @@
+{
+  "name": "changer_proj",
+  "version": "1.0.0",
+  "description": "contract swap",
+  "main": "swap2.sol",
+  "dependencies": {
+    "openzeppelin-solidity": "^3.4.0"
+  },
+  "devDependencies": {
+    "mocha": "^8.3.0"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "author": "",
+  "license": "ISC"
+}
